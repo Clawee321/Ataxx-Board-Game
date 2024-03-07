@@ -10,6 +10,5 @@ pawns.
 available.
 
 Controls
-
-LMB to select an ally pawn
-RMB to make an action with selected pawn
+1. LMB to select an ally pawn
+2. RMB to make an action with selected pawn
